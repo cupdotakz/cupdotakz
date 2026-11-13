@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ali — DevOps, automation and Cup Dota KZ</title>
+  <desc id="desc">Dark teal profile banner with warm copper accents, fine orbital lines and an abstract tournament emblem.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d25"/><stop offset="1" stop-color="#080f16"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#365d5d" stop-opacity=".48"/><stop offset="1" stop-color="#101922" stop-opacity="0"/></radialGradient>
+    <linearGradient id="metal" x2=".9" y2="1"><stop stop-color="#f0d3a5"/><stop offset=".5" stop-color="#d09a6f"/><stop offset="1" stop-color="#7f6758"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="20" fill="url(#bg)" stroke="#2d4047"/>
+  <ellipse cx="970" cy="165" rx="350" ry="270" fill="url(#glow)"/>
+  <g fill="none" stroke="#88b6b0" stroke-opacity=".12">
+    <ellipse cx="972" cy="180" rx="242" ry="86" transform="rotate(-32 972 180)"/>
+    <ellipse cx="972" cy="180" rx="206" ry="116" transform="rotate(32 972 180)"/>
+    <circle cx="972" cy="180" r="144"/>
+    <circle cx="972" cy="180" r="122" stroke-dasharray="2 10"/>
+    <path d="M688 0v360M0 302h1200"/>
+  </g>
+  <path d="M52 48h38" stroke="#d5ae83" stroke-width="3"/>
+  <text x="52" y="89" fill="#9ab4b6" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="4">DEVOPS / AUTOMATION / COMMUNITY</text>
+  <text x="47" y="204" fill="#edf2ec" font-family="Arial,Helvetica,sans-serif" font-size="104" font-weight="700" letter-spacing="-6">ALI.</text>
+  <text x="53" y="250" fill="#d3b08a" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="5">BUILDING CUP DOTA KZ</text>
+  <text x="53" y="334" fill="#7f999d" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">PEOPLE FIRST. SYSTEMS BEHIND THE SCENES.</text>
+  <g fill="none" stroke="url(#metal)" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M930 123h84v38c0 31-18 51-42 51s-42-20-42-51z"/>
+    <path d="M930 136h-23v20c0 21 11 31 29 32M1014 136h23v20c0 21-11 31-29 32M972 213v30M950 244h44M938 258h68"/>
+  </g>
+  <circle cx="972" cy="163" r="10" fill="#d4b28c"/>
+  <g fill="#9acac3"><circle cx="830" cy="89" r="3"/><circle cx="1115" cy="274" r="3"/></g>
+  <text x="1091" y="334" fill="#7f999d" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">KZ / DOTA 2</text>
+</svg>

@@ -1,16 +1,57 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.svg" alt="Ali — DevOps, automation and Cup Dota KZ" width="100%" />
+</p>
 
-<!--
-**adastanwork-afk/adastanwork-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>DevOps · Автоматизация · Dota 2</strong><br />
+  Развиваю Cup Dota KZ — турнирную платформу и сообщество игроков в Казахстане.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://cupdota.kz"><strong>Cup Dota KZ ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/adastanwork-afk?tab=repositories">Репозитории</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### За кулисами турниров
+
+Мне интересно соединять инфраструктуру, автоматизацию и полезный продукт. В Cup Dota KZ занимаюсь развитием проекта, эксплуатацией сайта и интеграцией с Discord. Собираю команду, чтобы двигаться дальше вместе.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 / Инфраструктура</strong><br /><br />
+      Запуск, окружения и проверяемые выпуски. Сначала надёжность — затем новые возможности.
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 / Автоматизация</strong><br /><br />
+      Discord-интеграции и турнирные процессы. Меньше ручной рутины для игроков и организаторов.
+    </td>
+    <td width="33%" valign="top">
+      <strong>03 / Сообщество</strong><br /><br />
+      Dota 2, турниры и совместная разработка. Делаем удобные вещи для людей, которые играют рядом.
+    </td>
+  </tr>
+</table>
+
+### Сейчас в работе
+
+**[Cup Dota KZ](https://cupdota.kz)** — заявки и составы, инструменты организаторов, Cup Rating и Discord-бот.
+
+Развиваем проект небольшими шагами: понятная задача → изменение → проверка → ревью. Код основной платформы находится в закрытом репозитории.
+
+<p>
+  <code>Linux / VPS</code>&nbsp;
+  <code>Git / GitHub</code>&nbsp;
+  <code>CI</code>&nbsp;
+  <code>Discord</code>&nbsp;
+  <code>Автоматизация</code>
+</p>
+
+---
+
+<p align="center">
+  <sub>Сообщество — в центре. Технологии — за кулисами.</sub>
+</p>
