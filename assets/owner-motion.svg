@@ -39,8 +39,7 @@
  <rect x="52" y="53" width="107" height="28" rx="14" fill="#241b1e" stroke="#7e5342"/>
  <circle cx="67" cy="67" r="2.5" fill="#e6af73"/>
  <text x="82" y="72" fill="#e6bf96" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">OWNER</text>
- <text x="48" y="191" fill="#f0eee9" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="700" letter-spacing="-2.6">!Love, money,</text>
- <text x="48" y="270" fill="#f0eee9" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="700" letter-spacing="-3">fame?</text>
+ <text x="52" y="226" fill="#f0eee9" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">!Love, money, fame?</text>
  <path d="M53 307h42" stroke="#d9674c" stroke-width="2"/>
  <text x="52" y="345" fill="#bba89b" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="4">CUP DOTA KZ</text>
  <text x="52" y="408" fill="#79747a" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">DOTA 2 / KAZAKHSTAN</text>
