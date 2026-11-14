@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="48" viewBox="0 0 184 48" role="img" aria-label="Личный Discord владельца">
+  <rect x=".5" y=".5" width="183" height="47" rx="10" fill="#17151b" stroke="#59434d"/>
+  <circle cx="24" cy="20" r="4" fill="none" stroke="#f0b9b0" stroke-width="1.4"/>
+  <path d="M17 32c0-7 14-7 14 0" fill="none" stroke="#f0b9b0" stroke-width="1.4"/>
+  <text x="48" y="29" fill="#f6ebea" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1">CONTACT</text>
+  <path d="M158 20h6v6m0-6-8 8" fill="none" stroke="#f0b9b0" stroke-width="1.4"/>
+</svg>
